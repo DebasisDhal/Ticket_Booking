@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/533455e0-1fd6-469a-b6d3-f456bf48d14b)
+![image](https://github.com/user-attachments/assets/7f80c947-cbb3-4092-b671-e0325afdfb4a)
+![image](https://github.com/user-attachments/assets/54498bed-428d-44d0-893f-dbdea2184f21)
+
+
 # TicketBooking
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
